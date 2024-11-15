@@ -1,1 +1,1 @@
-# studyhub
+# Study-Hub

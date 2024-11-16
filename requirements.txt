@@ -1,0 +1,8 @@
+Django==5.1.2
+pillow==11.0.0
+dj-database-url==2.3.0
+whitenoise==6.8.2
+gunicorn==23.0.0
+psycopg-binary==3.2.3
+uvicorn==0.32.0
+waitress==3.0.1
